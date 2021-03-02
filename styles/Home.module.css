@@ -50,8 +50,12 @@
 .title {
   margin: 0;
   line-height: 1.15;
+<<<<<<< HEAD
   font-size: 3rem;
   color: crimson;
+=======
+  font-size: 4rem;
+>>>>>>> 4ab2c6767e11acd52815cf5924bee68762fad9f0
 }
 
 .title,
@@ -59,6 +63,7 @@
   text-align: center;
 }
 
+<<<<<<< HEAD
 .disclaimer,
 .subtitle {
   text-decoration: underline;
@@ -71,6 +76,8 @@
   text-decoration: none;
 }
 
+=======
+>>>>>>> 4ab2c6767e11acd52815cf5924bee68762fad9f0
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
