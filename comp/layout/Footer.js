@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer>
+    <footer className="text-center">
       Copyright 2021 AO Herald
     </footer>
   )

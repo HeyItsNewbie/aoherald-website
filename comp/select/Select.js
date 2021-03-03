@@ -1,6 +1,6 @@
 const Select = () => {
   return (
-    <select>
+    <select className="p-2 ml-5 mr-5 ">
       <option>Manage A Server</option>
     </select>
   )
