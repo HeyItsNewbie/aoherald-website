@@ -10,12 +10,14 @@ body {
 }
 
 nav {
-  margin: 10px auto 80px;
+  background-color: #531405;
+  margin: 0px auto 40px;
   padding: 10px 0;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   border-bottom: 1px solid #ddd;
+  @apply text-gray-200
 }
 
 nav a {
@@ -24,4 +26,20 @@ nav a {
 
 nav .logo {
   margin-right: auto;
+}
+
+.menuBtns
+{
+  display: flex;
+  justify-content: flex-start;
+  width:60%;
+}
+
+.menuBtn {
+  @apply text-gray-600 bg-gray-100 p-2 border-gray-500 border-4 rounded-xl hover:bg-gray-600 hover:text-white;
+}
+
+.footer-container
+{
+  background-color: #531405;
 }
