@@ -12,7 +12,7 @@ const Navbar = () => {
         <Link href='/killbot'><a className='menuBtn'>Kill Bot</a></Link>
         <Link href='/battlebot'><a className='menuBtn'>Battle Bot</a></Link>
         <Link href='/regearbot'><a className='menuBtn'>Regear Bot</a></Link>
-        <Link href='/managed'><a className='menuBtn'>Managed</a></Link>
+        <Link href='/botadmin/killbot'><a className='menuBtn'>Managed</a></Link>
       </div>
       <Select />
       <Profile />
