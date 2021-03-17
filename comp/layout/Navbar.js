@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Select from '../select/Select'
+import Select from '../base/Select'
 import Profile from '../profile/Profile'
 
 const Navbar = () => {

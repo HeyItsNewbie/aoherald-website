@@ -55,3 +55,7 @@ nav .logo {
 {
   background-color: #531405;
 }
+
+.test {
+  @apply focus:ring-yellow-700 focus:border-yellow-700
+}
